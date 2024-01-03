@@ -14,5 +14,21 @@
   {
     "username": "lulu",
     "password": "$2b$10$4Zf8FA7zGdizXj8o3PyKFeVcygdPzQOrDWxm7IbOxE5SjuldkpVdG"
+  },
+  {
+    "username": "nino",
+    "password": "$2b$10$9NkS1XIuwsup9n3Db22J6.450cS.FzijOBneEm5G4.79wxrIMMctu"
+  },
+  {
+    "username": "zaza",
+    "password": "$2b$10$tkuT.GvMat.jcCFAHrh.zOdHqLxIhAylY.osgww2OKXpwlaIH0au."
+  },
+  {
+    "username": "aze",
+    "password": "$2b$10$jdXbUP4TqQuYLvVQuOgE1.XsNY6odNzXPQuQEx2UIR8uthIBQkQyq"
+  },
+  {
+    "username": "mimi",
+    "password": "$2b$10$H4pbN3dCDwa2GCmz1sSSJ.oxumKiookK0QRN70AJ1gdD.pArh9ZDC"
   }
 ]
